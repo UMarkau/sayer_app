@@ -1,0 +1,15 @@
+.item-container {
+    padding: 20px;
+    flex-basis: 100px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.comments-container {
+    padding-left: 15px;
+}
+
+.title-container {
+    padding-top: 15px;
+    word-wrap: break-word;
+}

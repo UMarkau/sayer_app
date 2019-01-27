@@ -1,0 +1,1 @@
+export {localStorageConst} from './localStorageConst';
